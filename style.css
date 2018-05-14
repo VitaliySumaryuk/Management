@@ -2694,7 +2694,7 @@ Skin Name: Nivo Slider Default Theme
 }
 
 .theme-default .nivo-controlNav {
-	display: table;
+	 display: table;
 	position: relative;
 	text-align: center;
 	margin: 0 auto;
